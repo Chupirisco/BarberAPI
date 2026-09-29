@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1mFr2PC+5E=",
+  "success": true,
+  "projectFilePath": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Barbearia.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yurig\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\yurig\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512",
+    "C:\\Users\\yurig\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.2-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.2-preview.1.nupkg.sha512"
+  ],
+  "logs": []
+}

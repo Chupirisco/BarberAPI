@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Barbearia.API/Barbearia.API.csproj" />
+  <Project Path="Barbearia.Application/Barbearia.Application.csproj" />
+  <Project Path="Barbearia.Domain/Barbearia.Domain.csproj" />
+  <Project Path="Barbearia.Infra.Data/Barbearia.Infra.Data.csproj" />
+  <Project Path="Barbearia.Infra.Ioc/Barbearia.Infra.Ioc.csproj" />
+</Solution>
