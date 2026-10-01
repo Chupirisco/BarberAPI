@@ -1,0 +1,6 @@
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Infra.Data\obj\Debug\net10.0\Barbearia.Infra.Data.csproj.AssemblyReference.cache
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Infra.Data\obj\Debug\net10.0\Barbearia.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Infra.Data\obj\Debug\net10.0\Barbearia.Infra.Data.AssemblyInfoInputs.cache
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Infra.Data\obj\Debug\net10.0\Barbearia.Infra.Data.AssemblyInfo.cs
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Infra.Data\obj\Debug\net10.0\Barbearia.Infra.Data.csproj.CoreCompileInputs.cache
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Infra.Data\obj\Debug\net10.0\Barbearia.Infra.Data.sourcelink.json

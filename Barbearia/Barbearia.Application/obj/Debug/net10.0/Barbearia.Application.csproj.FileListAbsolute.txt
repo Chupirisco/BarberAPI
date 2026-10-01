@@ -1,0 +1,16 @@
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\bin\Debug\net10.0\Barbearia.Application.deps.json
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\bin\Debug\net10.0\Barbearia.Application.dll
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\bin\Debug\net10.0\Barbearia.Application.pdb
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\bin\Debug\net10.0\Barbearia.Domain.dll
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\bin\Debug\net10.0\Barbearia.Domain.pdb
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbearia.Application.csproj.AssemblyReference.cache
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbearia.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbearia.Application.AssemblyInfoInputs.cache
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbearia.Application.AssemblyInfo.cs
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbearia.Application.csproj.CoreCompileInputs.cache
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbearia.Application.sourcelink.json
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbeari.0E4A7198.Up2Date
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbearia.Application.dll
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\refint\Barbearia.Application.dll
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\Barbearia.Application.pdb
+D:\repositorio\BarberAPI\Barbearia\Barbearia.Application\obj\Debug\net10.0\ref\Barbearia.Application.dll

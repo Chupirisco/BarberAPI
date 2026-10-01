@@ -6,8 +6,12 @@ namespace Barbearia.Domain.Entities
 {
     public class AgendaServico
     {
-        public ICollection<Agenda> Agendas { get; set; }
+        public int ID_Age_FK { get; set; }
+        public Agenda Agenda { get; set; }
 
-        public ICollection<Servico> Servicos { get; set; }
+        public int ID_Ser_FK { get; set; }
+        public Servico Servico { get; set; }
+
+
     }
 }
