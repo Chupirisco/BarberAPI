@@ -11,8 +11,8 @@ namespace Barbearia.Infra.Data.Repositories
         public AgendaServicoRepository(AppDbContext context) => _context = context;
 
         public async Task<IEnumerable<AgendaServico>> GetByAgendaIdAsync(int agendaId) =>
-            await _context.AgendaServicos.Include(x => x.Servico)
-                .Where(x => x.ID_Age == agendaId).ToListAsync();
+        await _context.AgendaServicos.Include(x => x.Servico)
+        .Where(x => x.ID_Age_FK == agendaId).ToListAsync();
 
         public async Task AddAsync(AgendaServico agendaServico)
         {

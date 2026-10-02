@@ -24,8 +24,8 @@ namespace Barbearia.Infra.Data.Configurations
              .HasColumnType("status_ativo");
 
             builder.HasMany(c => c.Telefones)
-                .WithOne(t => t.Cliente)
-                .HasForeignKey(t => t.ID_Cli);
+            .WithOne(t => t.Cliente)
+            .HasForeignKey(t => t.ID_Cli_FK);
         }
     }
 }

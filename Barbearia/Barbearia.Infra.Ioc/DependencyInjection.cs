@@ -4,6 +4,8 @@ using Barbearia.Infra.Data.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Barbearia.Application.Interfaces;
+using Barbearia.Application.Services;
 
 namespace Barbearia.Infra.IoC
 {
@@ -21,7 +23,12 @@ namespace Barbearia.Infra.IoC
             services.AddScoped<IServicoRepository, ServicoRepository>();
             services.AddScoped<ITelefoneRepository, TelefoneRepository>();
             services.AddScoped<IAgendaRepository, AgendaRepository>();
-            services.AddScoped<IAgendaServicoRepository, AgendaServicoRepository>();
+            services.AddScoped<IAgendaServicoRepository, AgendaServicoRepository>();            
+            services.AddScoped<IClienteService, ClienteService>();
+            services.AddScoped<IClienteService, ClienteService>();
+            services.AddScoped<IBarbeiroService, BarbeiroService>();
+            services.AddScoped<IServicoService, ServicoService>();
+            services.AddScoped<IAgendaService, AgendaService>();
 
             return services;
         }

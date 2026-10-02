@@ -3,7 +3,11 @@ using Barbearia.Infra.IoC;
 var builder = WebApplication.CreateBuilder(args);
 
 // Controllers (caso você use Controllers em vez de Minimal APIs)
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles;
+    });
 
 // Swagger / OpenAPI
 builder.Services.AddEndpointsApiExplorer();
