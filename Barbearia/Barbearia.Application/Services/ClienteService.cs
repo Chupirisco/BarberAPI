@@ -61,7 +61,7 @@ namespace Barbearia.Application.Services
             {
                 Nome = dto.Nome,
                 Observacao = dto.Observacao,
-                Status = StatusAtivo.Ativo
+                Status = StatusAtivo.Ativo.ToString().ToLower() 
             };
 
             await _repository.AddAsync(cliente);
@@ -70,7 +70,7 @@ namespace Barbearia.Application.Services
             {
                 ID_Cli = cliente.ID_Cli,
                 Nome = cliente.Nome,
-                Status = cliente.Status.ToString(),
+                Status = cliente.Status,
                 Observacao = cliente.Observacao,
                 Telefones = new List<string>()
             };
@@ -96,7 +96,7 @@ namespace Barbearia.Application.Services
             var cliente = await _repository.GetByIdAsync(id);
             if (cliente == null) return false;
 
-            cliente.Status = StatusAtivo.Inativo;
+            cliente.Status = StatusAtivo.Inativo.ToString().ToLower();
             await _repository.UpdateAsync(cliente);
             return true;
         }

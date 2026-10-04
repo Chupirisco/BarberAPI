@@ -14,8 +14,8 @@ namespace Barbearia.Application.Services
         {
             ID_Age = a.ID_Age,
             DataHoraMarcada = a.DataHoraMarcada,
-            StatusAgendamento = a.StatusAgendamento.ToString(),
-            StatusPagamento = a.StatusPagamento.ToString(),
+            StatusAgendamento = a.StatusAgendamento,
+            StatusPagamento = a.StatusPagamento,
             NomeCliente = a.Cliente.Nome,
             NomeBarbeiro = a.Barbeiro.Nome,
             Servicos = a.AgendaServicos.Select(x => x.Servico.Nome).ToList(),

@@ -1,5 +1,4 @@
-﻿using Barbearia.Domain.Enums;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -12,7 +11,7 @@ namespace Barbearia.Domain.Entities
 
         public string Nome { get; set; }
 
-        public StatusAtivo Status { get; set; }
+        public string Status { get; set; }
 
         public string NumeroTel { get; set; }
     }

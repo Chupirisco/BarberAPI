@@ -27,10 +27,10 @@ namespace Barbearia.Infra.Data.Repositories
             await Completa().Where(a => a.DataHoraMarcada.Date == data.Date).ToListAsync();
 
         public async Task<IEnumerable<Agenda>> GetContasReceberAsync() =>
-            await Completa()
-                .Where(a => a.StatusAgendamento == StatusAgenda.Concluido
-                         && a.StatusPagamento == StatusPagamento.Pendente)
-                .ToListAsync();
+        await Completa()
+            .Where(a => a.StatusAgendamento == "concluido"
+                     && a.StatusPagamento == "pendente")
+            .ToListAsync();
 
         public async Task AddAsync(Agenda agenda)
         {

@@ -9,7 +9,7 @@ namespace Barbearia.Domain.Entities
     {
         public int ID_Cli { get; set; }
         public string Nome { get; set; }
-        public StatusAtivo Status { get; set; }
+        public string Status { get; set; }
         public string Observacao { get; set; }
 
         public ICollection<Telefone> Telefones { get; set; } = new List<Telefone>();

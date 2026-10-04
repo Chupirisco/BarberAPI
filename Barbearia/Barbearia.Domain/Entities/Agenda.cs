@@ -9,8 +9,8 @@ namespace Barbearia.Domain.Entities
     {
         public int ID_Age { get; set; }
         public DateTime DataHoraMarcada { get; set; }
-        public StatusAgenda StatusAgendamento { get; set; }
-        public StatusPagamento StatusPagamento { get; set; }
+        public string StatusAgendamento { get; set; }
+        public string StatusPagamento { get; set; }
 
         public int ID_Bar_FK { get; set; }
         public Barbeiro Barbeiro { get; set; }

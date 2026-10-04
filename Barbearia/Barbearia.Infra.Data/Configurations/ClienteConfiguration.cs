@@ -1,7 +1,6 @@
 ﻿using Barbearia.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using Barbearia.Domain.Enums;
 
 namespace Barbearia.Infra.Data.Configurations
 {
@@ -16,12 +15,7 @@ namespace Barbearia.Infra.Data.Configurations
             builder.Property(c => c.Nome).HasColumnName("nome");
             builder.Property(c => c.Observacao).HasColumnName("observacao");
 
-            builder.Property(c => c.Status)
-             .HasColumnName("status")
-             .HasConversion(
-                 v => v.ToString().ToLower(),
-                 v => (StatusAtivo)Enum.Parse(typeof(StatusAtivo), v, true))
-             .HasColumnType("status_ativo");
+            builder.Property(c => c.Status).HasColumnName("status");
 
             builder.HasMany(c => c.Telefones)
             .WithOne(t => t.Cliente)

@@ -16,12 +16,7 @@ namespace Barbearia.Infra.Data.Configurations
             builder.Property(b => b.Nome).HasColumnName("nome");
             builder.Property(b => b.NumeroTel).HasColumnName("numero_tel");
 
-            builder.Property(b => b.Status)
-                .HasColumnName("status")
-                .HasConversion(
-                    v => v.ToString().ToLower(),
-                    v => (StatusAtivo)Enum.Parse(typeof(StatusAtivo), v, true))
-                .HasColumnType("status_ativo");
+            builder.Property(b => b.Status).HasColumnName("status");
         }
     }
 }
