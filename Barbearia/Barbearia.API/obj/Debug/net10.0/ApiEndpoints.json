@@ -431,6 +431,32 @@
   },
   {
     "ContainingType": "Barbearia.API.Controllers.ServicoController",
+    "Method": "Create",
+    "RelativePath": "api/Servico",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Barbearia.Application.DTOs.CreateServicoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Barbearia.Application.DTOs.ServicoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.ServicoController",
     "Method": "GetById",
     "RelativePath": "api/Servico/{id}",
     "HttpMethod": "GET",
@@ -454,5 +480,58 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.ServicoController",
+    "Method": "Update",
+    "RelativePath": "api/Servico/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Barbearia.Application.DTOs.UpdateServicoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.ServicoController",
+    "Method": "Delete",
+    "RelativePath": "api/Servico/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.ServicoController",
+    "Method": "Ativar",
+    "RelativePath": "api/Servico/{id}/ativar",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

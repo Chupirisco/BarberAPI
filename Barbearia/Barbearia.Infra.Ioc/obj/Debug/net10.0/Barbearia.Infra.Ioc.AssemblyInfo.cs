@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Barbearia.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fce3cd807406772897e1161d6a7932d6985bc03d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50ceaf497a973740bb50c8edc9ca4f62d57d6651")]
 [assembly: System.Reflection.AssemblyProductAttribute("Barbearia.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Barbearia.Infra.Ioc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

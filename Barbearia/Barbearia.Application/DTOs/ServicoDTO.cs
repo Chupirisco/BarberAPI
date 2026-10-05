@@ -11,5 +11,6 @@ namespace Barbearia.Application.DTOs
         public decimal Preco { get; set; }
         public string Observacao { get; set; }
         public int Tempo { get; set; }
+        public string Status { get; set; }
     }
 }

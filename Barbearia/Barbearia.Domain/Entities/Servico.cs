@@ -11,6 +11,7 @@ namespace Barbearia.Domain.Entities
         public string Nome { get; set; }
         public string Observacao { get; set; }
         public int Tempo { get; set; }
+        public string Status { get; set; }
 
         public ICollection<AgendaServico> AgendaServicos { get; set; } = new List<AgendaServico>();
     }

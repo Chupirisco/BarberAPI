@@ -16,6 +16,7 @@ namespace Barbearia.Infra.Data.Configurations
             builder.Property(s => s.Preco).HasColumnName("preco").HasColumnType("numeric");
             builder.Property(s => s.Observacao).HasColumnName("observacao");
             builder.Property(s => s.Tempo).HasColumnName("tempo");
+            builder.Property(s => s.Status).HasColumnName("status");
         }
     }
 }
