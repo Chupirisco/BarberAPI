@@ -132,5 +132,15 @@ namespace Barbearia.Application.Services
             await _telefoneRepository.DeleteAsync(telefoneId);
             return true;
         }
+
+        public async Task<bool> AtivarAsync(int id)
+        {
+            var cliente = await _repository.GetByIdAsync(id);
+            if (cliente == null) return false;
+
+            cliente.Status = StatusAtivo.Ativo.ToString().ToLower();
+            await _repository.UpdateAsync(cliente);
+            return true;
+        }
     }
 }

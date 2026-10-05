@@ -87,6 +87,32 @@
   },
   {
     "ContainingType": "Barbearia.API.Controllers.BarbeiroController",
+    "Method": "Create",
+    "RelativePath": "api/Barbeiro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Barbearia.Application.DTOs.CreateBarbeiroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Barbearia.Application.DTOs.BarbeiroDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.BarbeiroController",
     "Method": "GetById",
     "RelativePath": "api/Barbeiro/{id}",
     "HttpMethod": "GET",
@@ -110,6 +136,59 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.BarbeiroController",
+    "Method": "Update",
+    "RelativePath": "api/Barbeiro/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Barbearia.Application.DTOs.UpdateBarbeiroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.BarbeiroController",
+    "Method": "Delete",
+    "RelativePath": "api/Barbeiro/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.BarbeiroController",
+    "Method": "Ativar",
+    "RelativePath": "api/Barbeiro/{id}/ativar",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Barbearia.API.Controllers.ClienteController",
@@ -209,6 +288,22 @@
     "Method": "Delete",
     "RelativePath": "api/Cliente/{id}",
     "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Barbearia.API.Controllers.ClienteController",
+    "Method": "Ativar",
+    "RelativePath": "api/Cliente/{id}/ativar",
+    "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
     "Parameters": [

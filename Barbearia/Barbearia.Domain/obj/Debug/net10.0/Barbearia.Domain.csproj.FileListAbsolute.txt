@@ -10,4 +10,3 @@ D:\repositorio\BarberAPI\Barbearia\Barbearia.Domain\obj\Debug\net10.0\Barbearia.
 D:\repositorio\BarberAPI\Barbearia\Barbearia.Domain\obj\Debug\net10.0\refint\Barbearia.Domain.dll
 D:\repositorio\BarberAPI\Barbearia\Barbearia.Domain\obj\Debug\net10.0\Barbearia.Domain.pdb
 D:\repositorio\BarberAPI\Barbearia\Barbearia.Domain\obj\Debug\net10.0\ref\Barbearia.Domain.dll
-D:\repositorio\BarberAPI\Barbearia\Barbearia.Domain\obj\Debug\net10.0\Barbeari.F7F2E51D.Up2Date

@@ -9,6 +9,7 @@ namespace Barbearia.Application.Interfaces
         Task<ClienteDTO> CreateAsync(CreateClienteDTO dto);
         Task<bool> UpdateAsync(int id, UpdateClienteDTO dto);
         Task<bool> InativarAsync(int id);
+        Task<bool> AtivarAsync(int id);
 
         // Telefone
         Task<bool> AddTelefoneAsync(int clienteId, string numero);

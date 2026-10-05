@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "D:\\repositorio\\BarberAPI\\Barbearia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.api\\controllers\\barbeirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|solutionrelative:barbearia.api\\controllers\\barbeirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|solutionrelative:barbearia.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\services\\barbeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\services\\barbeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\interfaces\\ibarbeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\interfaces\\ibarbeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\dtos\\updatebarbeirodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\dtos\\updatebarbeirodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\dtos\\createbarbeirodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\dtos\\createbarbeirodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\services\\agendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\services\\agendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F956D797-2DDA-8FF2-1704-72355463B31C}|Barbearia.Infra.Data\\Barbearia.Infra.Data.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.infra.data\\repositories\\barbeirorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F956D797-2DDA-8FF2-1704-72355463B31C}|Barbearia.Infra.Data\\Barbearia.Infra.Data.csproj|solutionrelative:barbearia.infra.data\\repositories\\barbeirorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F956D797-2DDA-8FF2-1704-72355463B31C}|Barbearia.Infra.Data\\Barbearia.Infra.Data.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.infra.data\\configurations\\agendaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|solutionrelative:barbearia.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|solutionrelative:barbearia.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F956D797-2DDA-8FF2-1704-72355463B31C}|Barbearia.Infra.Data\\Barbearia.Infra.Data.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.infra.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F956D797-2DDA-8FF2-1704-72355463B31C}|Barbearia.Infra.Data\\Barbearia.Infra.Data.csproj|solutionrelative:barbearia.infra.data\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.api\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|solutionrelative:barbearia.api\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\services\\servicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -109,18 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\interfaces\\iservicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\interfaces\\iservicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.api\\controllers\\barbeirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D359683F-80B4-6239-1AB0-6B5AD7F8FE02}|Barbearia.API\\Barbearia.API.csproj|solutionrelative:barbearia.api\\controllers\\barbeirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\services\\barbeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\services\\barbeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\interfaces\\ibarbeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|solutionrelative:barbearia.application\\interfaces\\ibarbeiroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4B5BB28-336F-AC58-75CD-834E50AAE732}|Barbearia.Application\\Barbearia.Application.csproj|d:\\repositorio\\barberapi\\barbearia\\barbearia.application\\dtos\\barbeirodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -158,11 +166,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Program.cs",
               "RelativeDocumentMoniker": "Barbearia.API\\Program.cs",
@@ -171,18 +179,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T20:24:30.99Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Barbearia.API\\Controllers\\ClienteController.cs",
               "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Barbearia.API\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAqwFoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAGIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T20:31:55.634Z",
               "IsPinned": true,
@@ -190,46 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BarbeiroRepository.cs",
-              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Repositories\\BarbeiroRepository.cs",
-              "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Repositories\\BarbeiroRepository.cs",
-              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Repositories\\BarbeiroRepository.cs",
-              "RelativeToolTip": "Barbearia.Infra.Data\\Repositories\\BarbeiroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T20:02:57.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AgendaConfiguration.cs",
-              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\AgendaConfiguration.cs",
-              "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Configurations\\AgendaConfiguration.cs",
-              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\AgendaConfiguration.cs",
-              "RelativeToolTip": "Barbearia.Infra.Data\\Configurations\\AgendaConfiguration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T19:53:09.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\ClienteService.cs",
-              "RelativeDocumentMoniker": "Barbearia.Application\\Services\\ClienteService.cs",
-              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\ClienteService.cs",
-              "RelativeToolTip": "Barbearia.Application\\Services\\ClienteService.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAqwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T20:31:34.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "AgendaRepository.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Repositories\\AgendaRepository.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Repositories\\AgendaRepository.cs",
@@ -237,12 +205,126 @@
               "RelativeToolTip": "Barbearia.Infra.Data\\Repositories\\AgendaRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T19:53:35.322Z",
+              "WhenOpened": "2026-10-01T19:53:35.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBarbeiroService.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IBarbeiroService.cs",
+              "RelativeDocumentMoniker": "Barbearia.Application\\Interfaces\\IBarbeiroService.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IBarbeiroService.cs",
+              "RelativeToolTip": "Barbearia.Application\\Interfaces\\IBarbeiroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T21:26:16.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "BarbeiroService.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\BarbeiroService.cs",
+              "RelativeDocumentMoniker": "Barbearia.Application\\Services\\BarbeiroService.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\BarbeiroService.cs",
+              "RelativeToolTip": "Barbearia.Application\\Services\\BarbeiroService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T21:26:37.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BarbeiroController.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Controllers\\BarbeiroController.cs",
+              "RelativeDocumentMoniker": "Barbearia.API\\Controllers\\BarbeiroController.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Controllers\\BarbeiroController.cs",
+              "RelativeToolTip": "Barbearia.API\\Controllers\\BarbeiroController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T21:27:22.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "Barbearia.Application\\Interfaces\\IClienteService.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "Barbearia.Application\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T20:30:46.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Barbearia.Application\\Services\\ClienteService.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Barbearia.Application\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T20:31:34.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateBarbeiroDTO.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\CreateBarbeiroDTO.cs",
+              "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\CreateBarbeiroDTO.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\CreateBarbeiroDTO.cs",
+              "RelativeToolTip": "Barbearia.Application\\DTOs\\CreateBarbeiroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:04:27.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateBarbeiroDTO.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\UpdateBarbeiroDTO.cs",
+              "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\UpdateBarbeiroDTO.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\UpdateBarbeiroDTO.cs",
+              "RelativeToolTip": "Barbearia.Application\\DTOs\\UpdateBarbeiroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T18:04:45.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgendaConfiguration.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\AgendaConfiguration.cs",
+              "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Configurations\\AgendaConfiguration.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\AgendaConfiguration.cs",
+              "RelativeToolTip": "Barbearia.Infra.Data\\Configurations\\AgendaConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T19:53:09.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BarbeiroRepository.cs",
+              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Repositories\\BarbeiroRepository.cs",
+              "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Repositories\\BarbeiroRepository.cs",
+              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Repositories\\BarbeiroRepository.cs",
+              "RelativeToolTip": "Barbearia.Infra.Data\\Repositories\\BarbeiroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T20:02:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AgendaDTO.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\AgendaDTO.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\AgendaDTO.cs",
@@ -250,12 +332,11 @@
               "RelativeToolTip": "Barbearia.Application\\DTOs\\AgendaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T21:39:48.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-02T21:39:48.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "AgendaService.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\AgendaService.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\Services\\AgendaService.cs",
@@ -268,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "BarbeiroConfiguration.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\BarbeiroConfiguration.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Configurations\\BarbeiroConfiguration.cs",
@@ -276,12 +357,11 @@
               "RelativeToolTip": "Barbearia.Infra.Data\\Configurations\\BarbeiroConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:07:38.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T19:07:38.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "ClienteConfiguration.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\ClienteConfiguration.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Configurations\\ClienteConfiguration.cs",
@@ -289,12 +369,11 @@
               "RelativeToolTip": "Barbearia.Infra.Data\\Configurations\\ClienteConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T20:17:11.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-02T20:17:11.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Agenda.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Domain\\Entities\\Agenda.cs",
               "RelativeDocumentMoniker": "Barbearia.Domain\\Entities\\Agenda.cs",
@@ -302,12 +381,11 @@
               "RelativeToolTip": "Barbearia.Domain\\Entities\\Agenda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:56:54.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T19:56:54.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Barbeiro.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Domain\\Entities\\Barbeiro.cs",
               "RelativeDocumentMoniker": "Barbearia.Domain\\Entities\\Barbeiro.cs",
@@ -315,12 +393,11 @@
               "RelativeToolTip": "Barbearia.Domain\\Entities\\Barbeiro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:56:34.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T19:56:34.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Cliente.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "Barbearia.Domain\\Entities\\Cliente.cs",
@@ -328,12 +405,11 @@
               "RelativeToolTip": "Barbearia.Domain\\Entities\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:56:27.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T19:56:27.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Repositories\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Repositories\\ClienteRepository.cs",
@@ -341,12 +417,11 @@
               "RelativeToolTip": "Barbearia.Infra.Data\\Repositories\\ClienteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:18:59.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T19:18:59.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Ioc\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Ioc\\DependencyInjection.cs",
@@ -354,12 +429,11 @@
               "RelativeToolTip": "Barbearia.Infra.Ioc\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T20:33:36.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-02T20:33:36.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Data\\AppDbContext.cs",
@@ -367,24 +441,11 @@
               "RelativeToolTip": "Barbearia.Infra.Data\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:14:53.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T19:14:53.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IClienteService.cs",
-              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IClienteService.cs",
-              "RelativeDocumentMoniker": "Barbearia.Application\\Interfaces\\IClienteService.cs",
-              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IClienteService.cs",
-              "RelativeToolTip": "Barbearia.Application\\Interfaces\\IClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T20:30:46.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "TelefoneRepository.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Repositories\\TelefoneRepository.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Repositories\\TelefoneRepository.cs",
@@ -392,12 +453,11 @@
               "RelativeToolTip": "Barbearia.Infra.Data\\Repositories\\TelefoneRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAArwBoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-01T19:53:40.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-01T19:53:40.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "CreateClienteDTO.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\CreateClienteDTO.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\CreateClienteDTO.cs",
@@ -409,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "ServicoService.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\ServicoService.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\Services\\ServicoService.cs",
@@ -421,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "ServicoController.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Controllers\\ServicoController.cs",
               "RelativeDocumentMoniker": "Barbearia.API\\Controllers\\ServicoController.cs",
@@ -433,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "TelefoneDTO.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\TelefoneDTO.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\TelefoneDTO.cs",
@@ -445,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "UpdateClienteDTO.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\UpdateClienteDTO.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\UpdateClienteDTO.cs",
@@ -457,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "IAgendaService.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IAgendaService.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\Interfaces\\IAgendaService.cs",
@@ -469,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "AgendaController.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Controllers\\AgendaController.cs",
               "RelativeDocumentMoniker": "Barbearia.API\\Controllers\\AgendaController.cs",
@@ -481,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "IServicoService.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IServicoService.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\Interfaces\\IServicoService.cs",
@@ -493,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "ServicoDTO.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\ServicoDTO.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\ServicoDTO.cs",
@@ -505,43 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BarbeiroController.cs",
-              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Controllers\\BarbeiroController.cs",
-              "RelativeDocumentMoniker": "Barbearia.API\\Controllers\\BarbeiroController.cs",
-              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.API\\Controllers\\BarbeiroController.cs",
-              "RelativeToolTip": "Barbearia.API\\Controllers\\BarbeiroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T21:27:22.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "BarbeiroService.cs",
-              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\BarbeiroService.cs",
-              "RelativeDocumentMoniker": "Barbearia.Application\\Services\\BarbeiroService.cs",
-              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Services\\BarbeiroService.cs",
-              "RelativeToolTip": "Barbearia.Application\\Services\\BarbeiroService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T21:26:37.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IBarbeiroService.cs",
-              "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IBarbeiroService.cs",
-              "RelativeDocumentMoniker": "Barbearia.Application\\Interfaces\\IBarbeiroService.cs",
-              "ToolTip": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\Interfaces\\IBarbeiroService.cs",
-              "RelativeToolTip": "Barbearia.Application\\Interfaces\\IBarbeiroService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-02T21:26:16.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "BarbeiroDTO.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\BarbeiroDTO.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\BarbeiroDTO.cs",
@@ -553,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Domain\\Interfaces\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "Barbearia.Domain\\Interfaces\\IClienteRepository.cs",
@@ -565,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Application\\DTOs\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "Barbearia.Application\\DTOs\\ClienteDTO.cs",
@@ -577,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "AgendaServicoRepository.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Repositories\\AgendaServicoRepository.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Repositories\\AgendaServicoRepository.cs",
@@ -589,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "AgendaServicoConfiguration.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\AgendaServicoConfiguration.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Configurations\\AgendaServicoConfiguration.cs",
@@ -601,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "TelefoneConfiguration.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\TelefoneConfiguration.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Configurations\\TelefoneConfiguration.cs",
@@ -613,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "ServicoConfiguration.cs",
               "DocumentMoniker": "D:\\repositorio\\BarberAPI\\Barbearia\\Barbearia.Infra.Data\\Configurations\\ServicoConfiguration.cs",
               "RelativeDocumentMoniker": "Barbearia.Infra.Data\\Configurations\\ServicoConfiguration.cs",

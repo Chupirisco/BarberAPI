@@ -90,5 +90,12 @@ namespace Barbearia.API.Controllers
             return NoContent();
         }
 
+        [HttpPatch("{id}/ativar")]
+        public async Task<IActionResult> Ativar(int id)
+        {
+            var sucesso = await _clienteService.AtivarAsync(id);
+            if (!sucesso) return NotFound();
+            return NoContent();
+        }
     }
 }

@@ -22,5 +22,50 @@ namespace Barbearia.API.Controllers
             if (barbeiro == null) return NotFound();
             return Ok(barbeiro);
         }
+
+        [HttpPost]
+        public async Task<ActionResult<BarbeiroDTO>> Create(CreateBarbeiroDTO dto)
+        {
+            try
+            {
+                var barbeiro = await _barbeiroService.CreateAsync(dto);
+                return CreatedAtAction(nameof(GetById), new { id = barbeiro.ID_Bar }, barbeiro);
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, UpdateBarbeiroDTO dto)
+        {
+            try
+            {
+                var sucesso = await _barbeiroService.UpdateAsync(id, dto);
+                if (!sucesso) return NotFound();
+                return NoContent();
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var sucesso = await _barbeiroService.InativarAsync(id);
+            if (!sucesso) return NotFound();
+            return NoContent();
+        }
+
+        [HttpPatch("{id}/ativar")]
+        public async Task<IActionResult> Ativar(int id)
+        {
+            var sucesso = await _barbeiroService.AtivarAsync(id);
+            if (!sucesso) return NotFound();
+            return NoContent();
+        }
     }
 }
