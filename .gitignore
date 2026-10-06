@@ -1,0 +1,16 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+
+## Visual Studio
+.vs/
+
+## Segredos / configuração local
+appsettings.Development.json
+appsettings.Local.json
+
+## Outputs
+*.dll
+*.pdb
